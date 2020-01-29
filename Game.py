@@ -1,13 +1,4 @@
 # console-based game
-# computer will think of 3-digit number that has no repeating digits
-# your goal is to guess that numbers
-# the computer will give back clues
-    # close - correct number but in the wrong position
-    # match - correct number in the correct position
-    # nope - none ot the guessed data matches results
-# Keep doing it until you get a full match
-
-# Try to figure out what this code is doing and how it might be useful to you
 import random
 
 # Opening message
